@@ -1,3 +1,5 @@
+# Sprunki Scrunkly
+
 ## What is Sprunki Scrunkly?
 
 ![Sprunki Scrunkly](https://sprunkiscrunkly.com/sprunkiscrunkly.png "Sprunki Scrunkly")
@@ -14,29 +16,32 @@ Whether you're a seasoned Incredibox veteran or new to music creation, Sprunki S
 
 The best part? Once you've crafted your masterpiece, you can share it with the vibrant Incredibox community. Join fellow creators in spreading the joy of music and see what magical compositions others have created in this charming musical universe.
 
+## More Sprunki Games
+
+| Sprunki Game      | Repo                                                |
+| ----------------- | --------------------------------------------------- |
+| Sprunki Pyramixed | https://github.com/sprunkiscrunkly/SprunkiPyramixed |
+
+
+
 ## Features of Sprunki Scrunkly
 
-🎭
-
-### Quirky Characters
+### 🎭 Quirky Characters
 
 Meet our charming cast of performers with unique animations and personalities. Each character brings their own special musical loops and visual flair to your creation.
 
-🎵
 
-### Playful Soundscapes
+### 🎵 Playful Soundscapes
 
 Mix and match cheerful melodies, bouncy beats, and fun sound effects. Create delightful compositions that bring joy to your ears.
 
-✨
 
-### Hidden Surprises
+### ✨ Hidden Surprises
 
 Discover secret animations and bonus characters as you experiment with different combinations. Unlock special features that add magic to your musical journey.
 
-🌐
 
-### Community Sharing
+### 🌐 Community Sharing
 
 Save your musical masterpieces and share them with the global Incredibox community. Inspire others and get inspired by fellow creators.
 
