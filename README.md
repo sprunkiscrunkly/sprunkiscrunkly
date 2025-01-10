@@ -21,6 +21,7 @@ The best part? Once you've crafted your masterpiece, you can share it with the v
 | Sprunki Game      | Repo                                                |
 | ----------------- | --------------------------------------------------- |
 | Sprunki Pyramixed | https://github.com/sprunkiscrunkly/SprunkiPyramixed |
+| Sprunki Kiss Mod  | https://github.com/sprunkiscrunkly/Sprunki-Kiss-Mod |
 
 
 
