@@ -24,6 +24,20 @@ The best part? Once you've crafted your masterpiece, you can share it with the v
 | Sprunki Kiss Mod  | https://github.com/sprunkiscrunkly/Sprunki-Kiss-Mod |
 | Sprunki Relish    | https://github.com/sprunkiscrunkly/Sprunki-Relish   |
 
+## Popular Sprunki Games
+
+- Scrunkly: Sprunki [Scrunkly](https://sprunkiscrunkly.com/ "Scrunkly") is a delightful fan-made mod for Incredibox that transforms music creation into a whimsical adventure. It's where charming characters meet catchy beats, creating a unique playground for music enthusiasts of all levels.At its heart, Sprunki Scrunkly features a cast of lovably quirky characters, each bringing their own musical flair to the mix. 
+
+- Sprunki Pyramixed: [Sprunki Pyramixed](https://sprunkipyramixed.com/ "Sprunki Pyramixed") stands as the latest enchanting addition to the musical world, bringing a magical rhythmic experience that sets a new standard for interactive entertainment. At its heart, Sprunki Pyramixed creates a sonic wonderland where every element has been carefully crafted to deliver the most immersive musical experience possible.
+
+- Sprunki phase 3 remastered: [Sprunki Phase 3 Remastered](https://sprunkiscrunkly.com/sprunki-phase-3-remastered/ "Sprunki Phase 3 Remastered") - the definitive edition of the iconic Phase 3! This enhanced version brings a perfect blend of nostalgia and innovation, offering an upgraded experience while maintaining the core essence that made the original so special.
+
+- Sprunki phase 30: [Sprunki Phase 30](https://sprunkiscrunkly.com/sprunki-phase-30/ "Sprunki Phase 30") features freshly designed characters that bring unique loops and effects to expand your musical possibilities. Each character contributes to the rich tapestry of sounds that make this phase truly special.
+
+- Sprunki kiss mod: Sprunki Kiss Mod - your gateway to a romantic fan-created modification of the beloved Incredibox universe! This unique mod takes you on a journey through melodic realms where music and romance blend into beautiful harmonies.
+
+  At the heart of [Sprunki Kiss Mod](https://sprunkiscrunkly.com/sprunki-kiss-mod/ "Sprunki Kiss Mod") is its engaging character interactions. Every character and relationship has been carefully designed with romantic elements, creating a heartwarming atmosphere that draws you into its musical world.
+
 
 
 ## Features of Sprunki Scrunkly
