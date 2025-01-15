@@ -84,3 +84,7 @@ Love your creation? Save it and share it with the Incredibox community! Connect 
 Jump into Sprunki Scrunkly's whimsical world of music creation! Meet our charming cast of characters, discover hidden surprises, and craft your own delightful tunes. Whether you're a seasoned Incredibox fan or new to music making, there's a perfect beat waiting for you!
 
 [Play Sprunki Scrunkly Now - It's Free!](https://sprunkiscrunkly.com/#play-now)
+
+[Play Sprunki Scrunkly On OPPO ](https://communityin.oppo.com/thread/1773376153868828674)
+
+
