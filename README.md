@@ -85,6 +85,6 @@ Jump into Sprunki Scrunkly's whimsical world of music creation! Meet our charmin
 
 [Play Sprunki Scrunkly Now - It's Free!](https://sprunkiscrunkly.com/#play-now)
 
-[Play Sprunki Scrunkly On OPPO ](https://communityin.oppo.com/thread/1773376153868828674)
+[Play Sprunki Scrunkly On OPPO ](https://communityin.oppo.com/thread/1773576246202990595)
 
 
